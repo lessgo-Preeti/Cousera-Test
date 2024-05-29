@@ -1,2 +1,3 @@
 # Cousera-test
-Coursers Test Repository
+Coursers Test Repository!
+Coursera is a good platform
